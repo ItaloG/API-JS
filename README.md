@@ -5,7 +5,7 @@
 Conteúdos
 ==========
 <!--ts-->
-   * [Exemplo](#tree/main/Exemplo)
+   * [Exemplo](tree/main/Exemplo)
    * [Atividade](#Atividade)
 <!--te-->
 
