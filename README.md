@@ -5,7 +5,7 @@
 Conteúdos
 ==========
 <!--ts-->
-   * [Exemplo](tree/main/Exemplo)
+   * [Exemplo](https://github.com/ItaloG/API-JS/tree/main/Exemplo)
    * [Atividade](#Atividade)
 <!--te-->
 
