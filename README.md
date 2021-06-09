@@ -6,7 +6,7 @@ Conteúdos
 ==========
 <!--ts-->
    * [Exemplo](https://github.com/ItaloG/API-JS/tree/main/Exemplo)
-   * [Atividade](#Atividade)
+   * [Atividade](https://github.com/ItaloG/API-JS/blob/main/app.js)
 <!--te-->
 
 ### 🛠 Tecnologias
